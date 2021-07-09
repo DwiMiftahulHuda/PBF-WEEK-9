@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": 1614678483651,
+      "NIM": "1841720134",
+      "nama": "Nurfaidah",
+      "alamat": "Malang",
+      "hp": "085339110984",
+      "angkatan": "2018",
+      "status": "aktif"
+    },
+    {
+      "id": 1614679523236,
+      "NIM": "1841720134",
+      "nama": "Nur",
+      "alamat": "Malang",
+      "hp": "086372626111",
+      "angkatan": "2018",
+      "status": "Aktif 2"
+    },
+    {
+      "id": 1614680372071,
+      "NIM": "1841720134",
+      "nama": "Faidahn",
+      "alamat": "jln.Remujung no 3",
+      "hp": "083722738282",
+      "angkatan": "2018",
+      "status": "Aktif 3"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
